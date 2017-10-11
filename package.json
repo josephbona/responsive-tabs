@@ -1,6 +1,8 @@
 {
-  "name": "Demo",
+  "name": "Responsive Tabs",
   "version": "0.2.0",
+  "style": "css/style.min.css",
+  "main": "js/src/tabs.js",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "^3.0.1",
