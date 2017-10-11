@@ -1,0 +1,14 @@
+{
+  "name": "Responsive Tabs",
+  "description": "",
+  "main": ["js/src/tabs.js", "css/style.min.css"],
+  "license": "MIT",
+  "homepage": "https://github.com/josephbona/responsive-tabs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
