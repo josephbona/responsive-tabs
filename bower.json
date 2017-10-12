@@ -1,7 +1,7 @@
 {
-  "name": "Responsive Tabs",
+  "name": "bs-responsive-tabs",
   "description": "",
-  "main": ["js/src/tabs.js", "css/style.min.css"],
+  "main": ["js/src/tabs.js", "css/style.css"],
   "license": "MIT",
   "homepage": "https://github.com/josephbona/responsive-tabs",
   "ignore": [
